@@ -31,7 +31,7 @@ The aim was to create a stylish and functional e-commerce website that demonstra
 
 ## 🎥 Live Demo
 
-![MK Time Demo](screenshots/mk-time-demo.gif)
+![MK Time Demo](screenshots/mk-time-demo.gif.gif)
 
 ---
 
