@@ -29,6 +29,12 @@ The aim was to create a stylish and functional e-commerce website that demonstra
 
 ---
 
+## 🎥 Live Demo
+
+![MK Time Demo](screenshots/mk-time-demo.gif)
+
+---
+
 ## 🚀 Features
 
 - Dynamic product catalogue
@@ -87,7 +93,8 @@ mk-time-ecommerce
 │   ├── homepage.png
 │   ├── products.png
 │   ├── basket.png
-│   └── login.png
+│   ├── login.png
+│   └── mk-time-demo.gif
 │
 ├── database
 │   └── codespace.sql
