@@ -191,8 +191,6 @@ http://localhost/mk-time-ecommerce
 
 ## 📸 Project Preview
 
-> Add your screenshots into a folder called `screenshots` inside your repo.
-
 | Homepage | Products | Basket |
 |---|---|---|
 | ![](screenshots/homepage.png) | ![](screenshots/products.png) | ![](screenshots/basket.png) |
@@ -208,12 +206,6 @@ http://localhost/mk-time-ecommerce
 ![GitHub forks](https://img.shields.io/github/forks/jmyles1604/mk-time-ecommerce?style=social)
 ![GitHub repo size](https://img.shields.io/github/repo-size/jmyles1604/mk-time-ecommerce)
 ![GitHub last commit](https://img.shields.io/github/last-commit/jmyles1604/mk-time-ecommerce)
-
----
-
-## 📈 GitHub Profile Stats
-
-![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmyles1604&show_icons=true&theme=dark)
 
 ---
 
