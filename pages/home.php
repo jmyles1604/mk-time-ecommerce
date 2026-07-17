@@ -67,6 +67,7 @@ h5 {
     <p>At MK Time, we pride ourselves on offering exquisitely designed and meticulously crafted timepieces, combining timeless style with exceptional quality. 
        Every watch we sell is backed by our guarantee of service and repair,
        ensuring that your investment keeps perfect time for years to come.
+       Discover our latest watches.
        Explore our collection on a website designed to shine on any device, bringing our unique designs and elegant craftsmanship directly to you. 
        Whether you’re a seasoned collector or searching for the perfect statement piece, MK Time is dedicated to delivering sophistication, reliability, and style.</p>
 
