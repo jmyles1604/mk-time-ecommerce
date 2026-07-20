@@ -66,7 +66,7 @@ require 'connect_db.php';
 	}
 
 	# Or display message.
-	else { echo '<p>There are currently no items in the table to display.</p>
+	else { echo '<p>There are currently no items in the table to display on this page.</p>
 	' ; }
 	
 ?>	
